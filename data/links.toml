@@ -1,0 +1,11 @@
+[jcosentino]
+  title = "Joe Cosentino's Site"
+  link = "https://josephcosentino.me/"
+  avatar = "/media/links/joe_profile_github.jpeg"
+  description = "Software Developer, Musician, Drone Enthusiast"
+
+[tempate]
+   title = "Reinhardt"
+   link = "https://overwatch.gamepedia.com/Reinhardt"
+   avatar = "/media/links/reinhardt.png"
+   description = "Precision German engineering."

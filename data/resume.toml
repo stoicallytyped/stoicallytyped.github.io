@@ -1,0 +1,95 @@
+name = "Matt McKenna TODO"
+
+# These two variable definitions need to go before [contact], etc.
+languages = [
+  "English (native)"
+]
+
+interests = [
+  "Photography",
+  "Web development"
+]
+
+[contact]
+
+  [[contact.list]]
+    class = "email"
+    url = "mailto:mmckenna+website.resume@pm.me"
+    title = "mmckenna@pm.me"
+
+  [[contact.list]]
+    class = "phone"
+    url = "tel:484-321-1127"
+    title = "+1 (484) 321-1127"
+
+  [[contact.list]]
+    class = "github"
+    url = "//github.com/matthewcmckenna"
+    title = "github.com/matthewcmckenna"
+
+  [[contact.list]]
+    class = "website"
+    url = "//mmckenna.me"
+    title = "mmckenna.me"
+
+[education]
+
+  [[education.list]]
+    degree = "B.S. Computer Science"
+    school = "West Chester University of Pennsylvania"
+    year = "2012 - 2016"
+    description = "Courses: Algorithms, Computer Architecture."
+
+
+[experience]
+
+  [[experience.list]]
+    name = "Google Cloud"
+    company = "Google, Inc."
+    location = "Mountain View, CA, USA"
+    title = "Software Engineer"
+    year = "01/2016 - now"
+    description = """Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Suspendisse elit quam, maximus eget ex eget, vehicula ultricies nunc.
+      Nam sodales eu ipsum non ultricies."""
+
+  [[experience.list]]
+    name = "Amazon Web Services"
+    company = "Amazon"
+    location = "Seattle, WA, USA"
+    title = "Software Engineer"
+    year = "09/2014 - 12/2015"
+    projects = [
+      """Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+         Suspendisse elit quam""",
+      """Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+         Suspendisse elit quam""",
+      """Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+         Suspendisse elit quam""",
+    ]
+
+  [[experience.list]]
+    name = "Aliyun"
+    company = "Alibaba, Inc."
+    location = "Hangzhou, Zhejiang, China"
+    title = "Software Engineer"
+    year = "01/2009 - 08/2014"
+    projects = [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    ]
+
+[skill]
+
+  [[skill.list]]
+    name = "C/C++"
+    level = "80"
+
+  [[skill.list]]
+    name = "Python"
+    level = "80"
+
+  [[skill.list]]
+    name = "HTML"
+    level = "80"
