@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://stoicallytyped.com/links/</loc>
+    <lastmod>2019-05-16T23:49:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stoicallytyped.com/about/</loc>
+    <lastmod>2019-05-17T00:00:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stoicallytyped.com/resume/</loc>
+    <lastmod>2019-05-17T00:01:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stoicallytyped.com/</loc>
+    <lastmod>2019-05-17T00:01:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stoicallytyped.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stoicallytyped.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
