@@ -1,5 +1,5 @@
 ---
-title: "Hello, Hugo!"
+title: "Hello, World from Hugo!"
 date: 2019-05-16T20:01:36-04:00
 draft: true
 tags: ["hello", "blog", "hugo", "development"]
